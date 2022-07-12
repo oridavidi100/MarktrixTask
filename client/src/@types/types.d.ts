@@ -11,4 +11,8 @@ export declare namespace Data {
     type: string;
     payload: any;
   }
+  interface Response {
+    probabilityLocation: string;
+    probabilityGender: string;
+  }
 }
