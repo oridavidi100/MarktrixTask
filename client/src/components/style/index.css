@@ -13,7 +13,7 @@ body {
   align-items: center;
 }
 .title {
-  font-size: larger;
+  font-size: 182%;
 }
 .results {
   padding: 8.5%;
@@ -35,7 +35,6 @@ body {
 }
 
 .historyList {
-  /* margin-left: 10vw; */
   overflow-y: scroll;
   height: 54vh;
   width: 60%;

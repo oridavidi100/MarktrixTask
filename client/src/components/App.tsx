@@ -6,7 +6,7 @@ import { useDispatch } from 'react-redux';
 function App() {
   return (
     <div className="App">
-      <div className="title">Name app</div>
+      <h1 className="title">Genderize and nationalize app</h1>
       <Form />
       <SearchHistory />
     </div>
